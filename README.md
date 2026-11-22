@@ -1,5 +1,5 @@
-# NXG
-A private, responsive AI chat workspace based on your NXG principles. Includes conversation search, local history, export/delete, six focus modes, response depth, cancellation, and a server-side OpenAI Responses API integration.
+# NXG AI
+A private, responsive AI chat workspace based on NXG principles. Includes conversation search, local history, export/delete, six focus modes, response depth, cancellation, and a server-side OpenAI Responses API integration.
 
 ## Run
 Node 22+: `npm run build`, then `npm run dev`. No package installation needed. Open http://localhost:4173.
