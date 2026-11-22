@@ -1,0 +1,1 @@
+{"name":"nxg","version":"1.0.0","type":"module","private":true,"scripts":{"build":"node scripts/build.mjs","test":"node --test scripts/server.test.mjs","dev":"node scripts/preview.mjs"}}
