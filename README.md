@@ -9,3 +9,13 @@ Set OPENAI_API_KEY securely in the server environment to enable responses. OPENA
 Chats are browser-local and not synced. Only the last 40 messages are sent for context. No browsing, uploads, or code execution tools are connected. UI displays responses safely as plain text. API requests use store:false. Live AI verification requires a configured key.
 
 # off campus code:TWNB6V
+
+
+Finish offline AI setup: Connect Ollama and download a model so NXG can answer without API credits.
+Show answers as they’re generated: Display responses word by word instead of waiting for the entire answer.
+Improve formatting: Render headings, lists, and code blocks with a copy-code button.
+Add document chat: Let users upload PDFs or text files and ask questions about them.
+Add voice input: Allow users to speak their questions.
+Offer model selection: Switch between faster models and more capable ones.
+Add optional memory: Remember preferences, with controls to view, edit, and delete what NXG stores.
+Package it as a Mac app: Give NXG its own icon and window.
